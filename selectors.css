@@ -1,0 +1,15 @@
+/*p {
+    color: blue;
+} */
+
+/*.note {
+    background-color: yellow;
+}
+
+#special {
+    background-color: coral;
+} */
+
+div > p {
+    color: purple
+}
